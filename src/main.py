@@ -1,6 +1,6 @@
 import requests
 
-filePath = './test.json'
+filePath = './dist/test.json'
 url = 'https://sp12.iidx.app/api/v1/sheets'
 
 with open(filePath, mode='w') as f:
