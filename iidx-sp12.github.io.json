@@ -1,0 +1,5781 @@
+[
+  { "name": "A",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 7,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1 
+  },
+
+  { "name": "A MINSTREL ～ ver.short-scape ～",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "AA",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 11,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },
+  
+  { "name": "AA -rebuild-",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "ABSOLUTE EVIL",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "ACTØ",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  },
+    
+  { "name": "Adularia",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 3.5 
+  },
+
+  { "name": "Aftermath",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  },
+
+  { "name": "AIR RAID FROM THA UNDAGROUND",
+    "difficulty": "L",
+    "normal": "個人差A",
+    "hard": "個人差B+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 6.5,
+    "h_value": 5.5 
+  },
+
+  { "name": "AKASHIC BREAK",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  },
+
+  { "name": "ALBA -黎明-",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 6.5 
+  },
+
+  { "name": "ALBIDA",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },
+  
+  { "name": "Almagest",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9 
+  },
+
+  { "name": "ALTERNATOR",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  },
+
+  { "name": "Always We Trust In You",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  },
+  
+  { "name": "Amazing Mirage",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5 
+  },
+
+  { "name": "Ambivalent Vermilia",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9 
+  },
+  
+  { "name": "ANCHOR",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7 
+  },
+
+  { "name": "Ancient Scapes",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  },
+
+  { "name": "Ancient Scapes",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "Angel's Ladder",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "Anisakis-somatic mutation type \"Forza\"-",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8
+  },
+
+  { "name": "anthracene",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6 
+  },
+
+  { "name": "Antigravity",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6.5 
+  },
+
+  { "name": "AO-1",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "地力B",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 5 
+  },
+
+  { "name": "Apocalypse",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  },
+
+  { "name": "Arabian Rave Night",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5
+  },
+
+  { "name": "Arca",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  },
+
+  { "name": "Arkadia",
+  "difficulty": "A",
+  "normal": "地力B",
+  "hard": "地力B+",
+  "version": 29,
+  "d_value": 2,
+  "n_value": 5,
+  "h_value": 6 
+},
+
+  { "name": "Artist",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  },
+
+  { "name": "B.O.D.Y.",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 3.5 
+  },
+
+  { "name": "B4U(BEMANI FOR YOU MIX)",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "Bad Encryption",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9 
+  },
+
+  { "name": "Bad Maniacs",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "Be quiet",
+    "difficulty": "L",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "version": 11,
+    "d_value": 3,
+    "n_value": 5.5,
+    "h_value": 7.5 
+  },
+
+  { "name": "BEAT PRISONER",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "Beat Radiance",
+    "difficulty": "L",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 3 
+  },
+
+  { "name": "Beyond Evolution",
+    "difficulty": "A",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 10,
+    "h_value": 10
+  },
+
+  { "name": "BIGソムタム",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力E",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 2 
+  },
+
+  { "name": "BIGWAVERS",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "Binary Black Hole",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  },
+
+  { "name": "BITTER CHOCOLATE STRIKER",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "BLACK or WHITE?",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "BLACK.by X-Cross Fade",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5 
+  },
+
+  { "name": "BLAZING_LAZER",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力B",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 5 
+  }, 
+
+  { "name": "BLUE DRAGON(雷龍RemixIIDX)",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  },  
+
+  { "name": "BLUE MIRAGE",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 6.5 
+  },  
+  
+  { "name": "Blue Rain",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "Blue Spring Express",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },  
+  
+  { "name": "Boomy and The Boost",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "地力A",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7 
+  },
+
+  { "name": "Bring The Fire",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },
+
+  { "name": "BroGamer",
+    "difficulty": "L",
+    "normal": "個人差S",
+    "hard": "地力S",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 8.5,
+    "h_value": 9 
+  },
+
+  { "name": "Broken",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },  
+
+  { "name": "Broken Sword",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "Burning Flame",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 28,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 6 
+  },
+
+  { "name": "CADENZA",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "Candy Galy",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4 
+  },  
+
+  { "name": "Carmina",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  }, 
+
+  { "name": "Carry Me Away",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  }, 
+
+  { "name": "Catch Our Fire!",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "Caterpillar",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 3.5 
+  }, 
+
+  { "name": "Chaotoxin",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  }, 
+
+  { "name": "CHRONO DIVER -NORNIR-",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "Chrono Diver -PENDULUMs-",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 10 
+  }, 
+
+  { "name": "cinder",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },   
+
+  { "name": "Close the World feat.a☆ru",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },   
+
+  { "name": "Close the World feat.a☆ru",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7 
+  },   
+
+  { "name": "CODE:Ø",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "個人差A+",
+    "version": 26,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 7.5 
+  },   
+
+  { "name": "CODE:1 [revision1.0.1]",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "Colorful Cookie",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "Colors(radio edit)",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力C",
+    "version": 6,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 4 
+  },  
+ 
+  { "name": "Concertino in Blue",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 13,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  },  
+
+  { "name": "Confiserie",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  },  
+
+  { "name": "CONTRACT",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 13,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
+  },  
+
+  { "name": "Cosmic Cat",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5 
+  },  
+
+  { "name": "COSMIC RAY",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },  
+
+  { "name": "COSMIC V3LOCITY",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "CUE CUE RESCUE",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
+  { "name": "Cult Invitation",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 7.5 
+  }, 
+
+  { "name": "Dahlia",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力B",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 5 
+  },
+
+  { "name": "Dances with Snow Fairies",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "Dances with Snow Fairies",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 18,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9 
+  },  
+
+  { "name": "Dans la nuit de l'éternité",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9 
+  }, 
+
+  { "name": "DARK LEGACY",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  },  
+
+  { "name": "dAuntl3ss",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 3 
+  }, 
+
+  { "name": "DAY DREAM",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6.5
+  }, 
+
+  { "name": "DEADHEAT",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "DEATH†ZIGOQ～怒りの高速爆走野郎～",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "DEATH†ZIGOQ～怒りの高速爆走野郎～",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 25,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  }, 
+
+  { "name": "Demon March",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  },
+
+  { "name": "Despair of ELFERIA",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "destination",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "Devil's Gear",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Devilz Staircase",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "DIAMOND CROSSING",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "DIAVOLO",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5
+  },
+
+  { "name": "dica dica",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 3.5
+  },
+
+  { "name": "DIVINE JUDGEMENT",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
+  { "name": "DOMINION",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  },  
+
+  { "name": "Don't believe the hype",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "DORNWALD ～Junge～",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Double Dribble",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Dr. Chemical & Killing Machine",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Drastic Dramatic",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Drop Syndicate",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
+  { "name": "DropZ-Line-",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "DRUNK MONKY",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "DUAL STRIKER",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "DUE TOMORROW",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差C",
+    "version": 13,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 3.5
+  }, 
+
+  { "name": "Dynamite",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "個人差A+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7.5
+  }, 
+
+  { "name": "EBONY & IVORY",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "EBONY & IVORY",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 9
+  }, 
+
+  { "name": "ECHIDNA",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Elektrick U-Phoria",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "Elemental Creation",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "EMERALDAS",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "Empire of Fury",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  }, 
+
+  { "name": "encounter",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "entelecheia",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "eRAseRmOToRpHAntOM",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "EROICA",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "地力S+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 10
+  }, 
+
+  { "name": "EVANESCENT",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Evans",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Everlasting Message",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "EX-MASSIVE FIGHTER",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "EXUSIA",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 6
+  }, 
+
+  { "name": "F",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "FAKE TIME",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差C",
+    "version": 11,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 3.5
+  }, 
+
+  { "name": "fallen leaves -IIDX edition-",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  }, 
+
+  { "name": "FANTASTIC THREE",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4.5
+  }, 
+
+  { "name": "Fascination MAXX",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差S",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Feel The Beat",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "Feel The Beat",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 10
+  }, 
+
+  { "name": "Fegrix",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "fffff",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "Fire Beat",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "FIRE FIRE",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Flashes",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "地力A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 7
+  }, 
+
+  { "name": "Flying Castle",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "four pieces of heaven",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "frequent",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Friction[!]Function",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "FUZIN RIZIN",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "G59",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 6
+  }, 
+
+  { "name": "GAIA",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "GAME ON",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5
+  }, 
+
+  { "name": "Ganymede",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 13,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "GENE",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "Ghost Pulse",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "gigadelic",
+    "difficulty": "H",
+    "normal": "地力E",
+    "hard": "地力F",
+    "version": 11,
+    "d_value": 1,
+    "n_value": 2,
+    "h_value": 1
+  }, 
+
+  { "name": "gigadelic",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力F",
+    "version": 11,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 1
+  }, 
+
+  { "name": "GiGaGaHell",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "glacia",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "Glitch N Ride",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "個人差A+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 7.5
+  }, 
+
+  { "name": "Go Ahead!!",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 10
+  }, 
+
+  { "name": "Go Beyond!!",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力S+",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 10
+  }, 
+  
+  { "name": "GO OVER WITH GLARE -ROOTAGE 26-",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "Godspeed",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6
+  }, 
+
+  { "name": "GOLDEN CROSS",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Grand Chariot",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "Gravigazer",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "GRAVITON",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "GRID KNIGHT",
+    "difficulty": "L",
+    "normal": "個人差E",
+    "hard": "地力E",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 1.5,
+    "h_value": 2
+  }, 
+
+  { "name": "GUILTY",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "GuNGNiR",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  },  
+
+  { "name": "GuNGNiR",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },  
+
+  { "name": "HADES",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 6
+  },  
+
+  { "name": "HAERETICUS",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  },  
+
+  { "name": "HARD BRAIN",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "hard-wired",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "Hat Surprise (Season 2)",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "Here We Go Now",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Highcharge Divolt",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Hollywood Galaxy",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "地力A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7
+  }, 
+
+  { "name": "I",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "ICARUS",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "ICARUS",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 10
+  },   
+
+  { "name": "Idola",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Ignis†Iræ",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9
+  }, 
+
+  { "name": "Illegal Function Call",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },   
+
+  { "name": "Illusionary Waterlily",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "IMPLANTATION",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 4.5
+  }, 
+
+  { "name": "Inferno of Fomalhaut",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "Initiation",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "innocent revolver",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "Innocent Walls",
+    "difficulty": "H",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "version": 10,
+    "d_value": 1,
+    "n_value": 1.5,
+    "h_value": 1.5
+  }, 
+
+  { "name": "Innocent Walls",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": 10,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "INSOMNIA",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "Invitation from Mr.C",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4.5
+  }, 
+
+  { "name": "invoker",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "invoker",
+    "difficulty": "L",
+    "normal": "個人差A+",
+    "hard": "地力A+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 7.5,
+    "h_value": 8
+  }, 
+
+  { "name": "JOMANDA",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6.5
+  }, 
+
+  { "name": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力C",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 4
+  }, 
+
+  { "name": "KAISER PHOENIX",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  },   
+
+  { "name": "KAISER PHOENIX",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 10
+  },   
+
+  { "name": "KAMAITACHI",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },  
+
+  { "name": "KILL EACH OTHER",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  },  
+
+  { "name": "KING",
+    "difficulty": "L",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 30,
+    "d_value": 3,
+    "n_value": 2,
+    "h_value": 3
+  },
+
+  { "name": "Konzert V",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  },
+
+  { "name": "kors k's How to make OTOGE CORE 「LONG」",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  },  
+
+  { "name": "Kung-fu Empire",
+    "difficulty": "L",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 4
+  },  
+
+  { "name": "L.F.O",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "LASER CRUSTER",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  },  
+
+  { "name": "LASER CRUSTER (IGNITE REMIX)",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  },  
+
+  { "name": "Last Dance",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "Lethal Weapon",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Level 2",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "Level 3",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Level 4",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Level 5",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "個人差S+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 9.5
+  }, 
+
+  { "name": "Level One",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差S",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Liberation",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3
+  }, 
+
+  { "name": "Life Is A Game ft.DD\"ナカタ\"Metal",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "LIGHTNING STRIKES",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "LIGHTNING STRIKES",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8
+  },
+
+  { "name": "Lightspeed",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
+  { "name": "Little Little Princess",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "Little Star",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "LIVE DRIVING!! feat. 花たん",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "LOCUS OF THE TRAVEL",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "Lords Of The Roundtable",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "個人差S",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Lost Souls",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9
+  },
+
+  { "name": "LOST TECHNOLOGIE",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "LOUDER ROLLING THUNDER",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "M4K3 1T B0UNC3",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "Mächö Mönky",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  }, 
+
+  { "name": "MAD ATTACK",
+    "difficulty": "L",
+    "normal": "個人差C",
+    "hard": "個人差B+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 3.5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "Mare Nectaris",
+    "difficulty": "A",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 10,
+    "h_value": 10
+  }, 
+
+  { "name": "Marie Antoinette",
+    "difficulty": "L",
+    "normal": "個人差B+",
+    "hard": "個人差B+",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 5.5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "Matt Silver",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "MAX 300",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "version": 7,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "MAX 360",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "MAXIMUM CHEAT GIRL",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "MEGAERA",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "Megalara Garuda",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "MENDES",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Meissa",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "Mid-Corner (Magic Maker)",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
+  { "name": "Million Dollar",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  },
+
+  { "name": "Miracle 5ympho X",
+    "difficulty": "L",
+    "normal": "個人差A",
+    "hard": "個人差S",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 6.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Monopole.",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "moon_child",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 9,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "mosaic",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差E",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 1.5
+  }, 
+
+  { "name": "n/a",
+    "difficulty": "A",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 10,
+    "h_value": 10
+  }, 
+
+  { "name": "No Border",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Nothing but Theory",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 25,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "NEO GENERATOR SEVEN",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "neu",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  },  
+
+  { "name": "New Castle Legions",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5
+  },  
+
+  { "name": "NEW GENERATION-もう、お前しか見えない-",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 7
+  },  
+
+  { "name": "Nightmare before oversleep",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "NINJA IS DEAD IIDX ver.",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  },  
+
+  { "name": "NITROUS CANNON",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  },  
+
+  { "name": "NNRT",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "NOIXIA",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
+  { "name": "NZM",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8.5
+  },  
+
+  { "name": "O/D*20",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 25,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 7
+  },  
+
+  { "name": "ONE AND ONLY",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  }, 
+
+  { "name": "One for All",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  },  
+
+  { "name": "One More Lovely",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力C",
+    "version": 10,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 4
+  },  
+
+  { "name": "one or eight",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": 9,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2.5
+  },  
+
+  { "name": "ONIGOROSHI",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5
+  },  
+
+  { "name": "oratio",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  },  
+
+  { "name": "ORCA",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "OTENAMI Hurricane",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "Out of Control",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "Override",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "Painful Fate",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "Papilio ulysses",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 5.5 
+  },
+
+  { "name": "PARADISE LOST",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "PARANOiA ～HADES～",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 6.5 
+  },
+
+  { "name": "Pārvatī",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },
+
+  { "name": "Peaktime Booster",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 6.5
+  },
+
+  { "name": "perditus†paradisus",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  },
+
+  { "name": "Persephone",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },
+
+  { "name": "Phoenix",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9 
+  },
+
+  { "name": "Plan 8",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5 
+  },
+
+  { "name": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  },
+
+  { "name": "PLEASE DON'T GO",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差C",
+    "version": 8,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 3.5 
+  },
+
+  { "name": "Please Welcome Mr.C",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  },  
+
+  { "name": "POSSESSION",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3.5 
+  },  
+
+  { "name": "Primitive Vibes",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1 
+  },  
+
+  { "name": "Proof of the existence",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "PUNISHER",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  },  
+
+  { "name": "Purple Perplex",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 7.5 
+  },  
+
+  { "name": "Push on Beats!～音ゲの国のeX-ストリーマー～",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  },  
+
+  { "name": "Quakes",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },    
+
+  { "name": "QUANTUM TELEPORTATION",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5 
+  },    
+
+  { "name": "quaver♪",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "quell～the seventh slave～",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },  
+
+  { "name": "ra'am",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5.5 
+  },  
+
+  { "name": "rage against usual",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差A",
+    "version": 12,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6.5 
+  }, 
+
+  { "name": "RAGE feat.H14 of LEONAIR",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5 
+  }, 
+
+  { "name": "RAIN",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 3 
+  }, 
+
+  { "name": "Rampage",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "Raspberry Railgun",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  }, 
+
+  { "name": "Rave Cannon",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "Rave*it!! Rave*it!!",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差A+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 7.5 
+  },  
+
+  { "name": "Rave Patroller",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 3 
+  }, 
+
+  { "name": "RED ZONE",
+    "difficulty": "L",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 11,
+    "d_value": 3,
+    "n_value": 2,
+    "h_value": 2 
+  },  
+
+  { "name": "Red. by Full Metal Jacket",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 6.5 
+  },  
+
+  { "name": "Red. by Jack Trance",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5 
+  },  
+
+  { "name": "Reflux",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 7.5 
+  },  
+
+  { "name": "refrain",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+  
+  { "name": "Resonant",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7 
+  },
+
+  { "name": "reunion",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力A",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 7 
+  }, 
+
+  { "name": "REVOLVER",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "version": 25,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8.5 
+  }, 
+
+  { "name": "RINИE",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  },   
+
+  { "name": "Ristaccia",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1 
+  },   
+
+  { "name": "Roar of Chronos",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "rommmo",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  },  
+
+  { "name": "ruin of opals",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
+
+  { "name": "sakura storm",
+    "difficulty": "A",
+    "normal": "個人差F",
+    "hard": "個人差E",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 0.5,
+    "h_value": 1.5 
+  }, 
+
+  { "name": "SAMURAI-Scramble",
+    "difficulty": "L",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 9.5,
+    "h_value": 9.5 
+  }, 
+
+  { "name": "Satellite Burst",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "Saturn",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 9 
+  },
+
+  { "name": "SAY BAY",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  }, 
+
+  { "name": "Say YEEEAHH",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  }, 
+
+  { "name": "SCREAM SQUAD",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "version": 12,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 1.5 
+  }, 
+
+  { "name": "SCREW // owo // SCREW",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 7.5 
+  }, 
+
+  { "name": "Scripted Connection⇒ A mix",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "version": 12,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3.5 
+  }, 
+
+  { "name": "Scripted Connection⇒ A mix",
+    "difficulty": "L",
+    "normal": "個人差A",
+    "hard": "地力A",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 6.5,
+    "h_value": 7 
+  }, 
+
+  { "name": "Scripted Connection⇒ H mix",
+    "difficulty": "L",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Secrets",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "Sense 2007",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5 
+  }, 
+
+  { "name": "Session 9-Chronicles-",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Seven Times Four",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "Shooting Fireball",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "Sigmund",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  }, 
+
+  { "name": "Sigmund",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  }, 
+
+  { "name": "Silver Bullet",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  }, 
+
+  { "name": "Sinus Iridum",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 10 
+  }, 
+
+  { "name": "Sirius",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  }, 
+
+  { "name": "Sky High",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Slipstream",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Smalt #28598F",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "Smashing Wedge",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  }, 
+
+  { "name": "Snake Stick",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7.5 
+  }, 
+
+  { "name": "Snakey Kung-fu",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6.5 
+  }, 
+
+  { "name": "snow storm",
+    "difficulty": "L",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 1,
+    "h_value": 1 
+  }, 
+
+  { "name": "Sol Cosine Job 2",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "SOLAR ECLIPSE",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8.5 
+  }, 
+
+  { "name": "SOLID STATE SQUAD",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "SOLID STATE SQUAD",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 17,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
+  { "name": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "SOLID WYVERN",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 29,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
+  }, 
+
+  { "name": "Somnidiscotheque",
+    "difficulty": "A",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 10,
+    "h_value": 10 
+  },
+
+  { "name": "Sounds Of Summer",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "SpaceLand☆TOYBOX",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "SPECIAL SUMMER CAMPAIGN!",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1 
+  }, 
+
+  { "name": "spiral galaxy",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 11,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 3 
+  }, 
+
+  { "name": "STARLIGHT DANCEHALL",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 6 
+  }, 
+
+  { "name": "Steel Edge",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "地力E",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2
+  }, 
+
+  { "name": "STEEL NEEDLE",
+    "difficulty": "L",
+    "normal": "個人差A",
+    "hard": "地力S",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 6.5,
+    "h_value": 9 
+  },    
+
+  { "name": "Stereo Beasts",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "StrayedCatz",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  }, 
+
+  { "name": "STULTI",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "地力A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7
+  }, 
+
+  { "name": "Summerlights(IIDX Edition)",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  }, 
+
+  { "name": "Super Freak",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "Super Rush",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
+
+  { "name": "suspicions",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
+  { "name": "Sweet Clapper",
+    "difficulty": "L",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 2,
+    "h_value": 2
+  },
+
+  { "name": "Sword of Vengeance",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "Symmetry",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  }, 
+
+  { "name": "SYNC-ANTHEM",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 5 
+  }, 
+
+  { "name": "T-REX vs Velociraptor (In the Far east euphoria)",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
+
+  { "name": "TECHNO Style Essentials",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "TECHNOPHOBIA",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "地力A+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 8 
+  }, 
+
+  { "name": "THANK YOU FOR PLAYING",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5 
+  }, 
+
+  { "name": "THE BRAVE MUST DIE",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
+  { "name": "The Chase",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "The Clown of 24stairs",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "THE DAY OF JUBILATIONS",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "THE DEEP STRIKER",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
+
+  { "name": "THE F∀UST",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  }, 
+
+  { "name": "The Last Apocalypse",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "The Least 100sec",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "The Limbo",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 5 
+  }, 
+
+  { "name": "The Limbo",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10 
+  }, 
+
+  { "name": "The Onlyonez",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "THE PEERLESS UNDER HEAVEN",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5 
+  }, 
+
+  { "name": "The Rebellion of Sequencer",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
+  { "name": "The Sampling Paradise",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "Thor's Hammer",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 9.5
+  },
+
+  { "name": "thunder HOUSE NATION Remix",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 4 
+  },
+
+  { "name": "Thunderbolt",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },   
+
+  { "name": "TIEFSEE",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },  
+
+  { "name": "Tiempo Loco",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 7 
+  },  
+
+  { "name": "Time to Air",
+    "difficulty": "L",
+    "normal": "個人差S",
+    "hard": "個人差S",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 8.5,
+    "h_value": 8.5
+  },  
+
+  { "name": "Timepiece phase II",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  },  
+
+  { "name": "Timepiece phase II(CN Ver.)",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "個人差S+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 9.5
+  },  
+
+  { "name": "TITANS RETURN",
+    "difficulty": "L",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 7.5,
+    "h_value": 8.5
+  },  
+
+  { "name": "Todestrieb",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  },  
+
+  { "name": "TOGAKUSHI",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5
+  },  
+
+  { "name": "TOMAHAWK",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 7.5 
+  },  
+
+  { "name": "TOXIC VIBRATION",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  },  
+
+  { "name": "TRANOID",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9 
+  },  
+
+  { "name": "Trill auf G",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力B+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 6 
+  },   
+  
+  { "name": "Triple Cross",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "Triple Counter",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },  
+
+  { "name": "TRIUMPH",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },  
+
+  { "name": "TROOPERS",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2.5 
+  },
+
+  { "name": "True Blue",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },    
+
+  { "name": "Twelfth Style",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 6 
+  },    
+
+  { "name": "u gotta beat",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
+  { "name": "Übertreffen",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 6 
+  },    
+
+  { "name": "Umbral",
+    "difficulty": "L",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 4 
+  },   
+
+  { "name": "Unbelief",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 8 
+  },      
+
+  { "name": "V",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 5,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },  
+
+  { "name": "Valanga",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "VANESSA",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  },  
+
+  { "name": "VANESSA",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 9 
+  },  
+
+  { "name": "Venom",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  },  
+
+  { "name": "Verflucht",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8 
+  }, 
+
+  { "name": "Verflucht",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },   
+
+  { "name": "Vermilion Carol",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Vinculum stellarum",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "Violet Pulse",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 8 
+  },
+
+  { "name": "Viridian",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "Visterhv",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  }, 
+
+  { "name": "Vitrum",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "VØID",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8.5 
+  },  
+  
+  { "name": "VOLAQUAS",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },   
+
+  { "name": "voltississimo",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  }, 
+
+  { "name": "VOX UP",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "Vulnerability",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "Watch Out Pt.2",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "waxing and wanding",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 13,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
+  { "name": "We're so Happy(P*Light Remix) IIDX ver.",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6 
+  }, 
+
+  { "name": "Welcome",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "WHA",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "個人差S",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 8.5 
+  }, 
+
+  { "name": "WONDER WALKER",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "X",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Xb10r",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  }, 
+
+  { "name": "Xerulean",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  }, 
+
+  { "name": "Xlø",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力A",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 7
+  }, 
+
+  { "name": "Xperanza",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "Y&Co. is dead or alive",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差S",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "YAKSHA",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "yellow head joe",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "Ypsilon",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 3
+  }, 
+
+  { "name": "ZEPHYRANTHES",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Zirkfied",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "地力A+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8
+  }, 
+
+  { "name": "ZZ",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "地力D",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 3
+  }, 
+
+  { "name": "199024club -Re:BounceKiller-",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 6.5
+  },   
+
+  { "name": "2 Beasts Unchained",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "地力A",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 7
+  },  
+
+  { "name": "24h Endurance Race",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5.5
+  },  
+
+  { "name": "255",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "個人差A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7.5
+  }, 
+
+  { "name": "3y3s",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "地力S+",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 10
+  }, 
+
+  { "name": "[ ]DENTITY",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "紫陽花 -AZISAI-",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "紫陽花 -AZISAI-",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "個人差A+",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7.5
+  },
+
+  { "name": "アストライアの双皿",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 4.5
+  }, 
+
+  { "name": "天邪鬼",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "イザナミノナゲキ",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },
+
+  { "name": "栄冠のカンパネラ",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "ÆTHER",
+    "difficulty": "L",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 3.5
+  }, 
+
+  { "name": "駅猫のワルツ",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "ΕΛΠΙΣ",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  },
+
+  { "name": "ΕΛΠΙΣ",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 6 
+  },
+
+  { "name": "焔極OVERKILL",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  },
+
+  { "name": "Ōu Legends",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  },
+
+  { "name": "お菓子の王国",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9
+  },
+
+  { "name": "俺ら東京さ行ぐだ",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7
+  },
+
+  { "name": "音楽",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "Χ-DEN",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 10
+  },
+
+  { "name": "カゴノトリ～弐式～",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力E",
+    "version": 13,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 2
+  },
+
+  { "name": "カジノファイヤーことみちゃん",
+    "difficulty": "L",
+    "normal": "個人差A",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 6.5,
+    "h_value": 9
+  }, 
+
+  { "name": "仮想空間の旅人たち",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 6
+  }, 
+
+  { "name": "華蝶風雪",
+    "difficulty": "L",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 13,
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "がっつり陰キャ!?怪盗いいんちょの億劫^^;",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "神のシナリオ",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3.5 
+  },
+
+  { "name": "#CMFLG",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  },
+
+  { "name": "華麗なる大犬円舞曲",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "君のハートにロックオン",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 8 
+  },
+
+  { "name": "キャトられ♥恋はモ～モク",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  },  
+
+  { "name": "九尾狐夜行",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  },  
+
+  { "name": "共鳴遊戯の華",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  },  
+
+  { "name": "閠槞彁の願い",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "狂イ咲ケ焔ノ華",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  },  
+
+  { "name": "黒髪乱れし修羅となりて",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  },  
+
+  { "name": "恋する☆宇宙戦争っ!!",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  },
+
+  { "name": "恋する☆宇宙戦争っ!!",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8
+  },
+
+  { "name": "子供の落書き帳",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6
+  }, 
+
+  { "name": "今宵、ロマンス横丁。",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  },
+
+  { "name": "金野火織の金色提言",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  },  
+
+  { "name": "最小三倍完全数",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "逆月",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "地力B+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 6
+  }, 
+
+  { "name": "桜",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "version": 8,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1
+  },
+
+  { "name": "疾風迅雷",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  },  
+
+  { "name": "疾風迅雷",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },  
+
+  { "name": "シムルグの目醒め",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "〆",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "灼熱 Lost Summer Dayz",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "個人差B+",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 5.5
+  },
+
+  { "name": "灼熱 Pt.2 Long Train Running",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5
+  }, 
+
+  { "name": "灼熱Beach Side Bunny",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5
+  }, 
+
+  { "name": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "スパークリング☆彡ハイパーチューン！！",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1
+  }, 
+
+  { "name": "終焔のClaudia",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3
+  }, 
+
+  { "name": "シュレーディンガーの猫",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "少年A",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3
+  },
+
+  { "name": "少年は空を辿る",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "深淵に捧ぐレクイエム",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "神謳 -RESONANCE-",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "真 地獄超特急 -HELL or HELL-",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "水鏡の異界",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "スーパー戦湯ババンバーン",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "地力C",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4
+  }, 
+
+  { "name": "聖人の塔",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 5
+  }, 
+
+  { "name": "世界の果てに約束の凱歌を -ReUnion-",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "雪月花",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "version": 10,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 1.5
+  }, 
+
+  { "name": "雪上断火",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "千年ノ理",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力F",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 1
+  }, 
+
+  { "name": "千年ノ理",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力A+",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 8
+  }, 
+
+  { "name": "旋律のドグマ～Misérables～",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "ぞうしょく！？マイデンティティ",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  },
+
+  { "name": "即席！脳直★ミュージックシステム",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "それは花火のような恋",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "∀",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "抱きしめてモナムール",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "たまゆら",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "津軽雪",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  }, 
+
+  { "name": "ディスコルディア",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "地力S+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 10
+  }, 
+
+  { "name": "天空の夜明け",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "電光",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "天使のカンタータ -Cantata of Angels-",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
+  { "name": "電人、暁に斃れる。",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  },
+
+  { "name": "電腦都市",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  },
+
+  { "name": "東京神話",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 8
+  }, 
+
+  { "name": "童話回廊",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "轟け！恋のビーンボール！！",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "トリカゴノ鳳凰",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "IX",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "嘆きの樹",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 13,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "夏色DIARY - L.E.D.-G STYLE MIX -",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "廿",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "ハイテックトキオ",
+    "difficulty": "L",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 29,
+    "d_value": 3,
+    "n_value": 3.5,
+    "h_value": 4.5 
+  },
+
+  { "name": "儚キ戀ノ幻想譚",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "伐折羅-vajra-",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "刃図羅",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "バッド・スイーツ、バッド・ドリーム",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "華爛漫-Flowers-",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 4 
+  },
+
+  { "name": "ピアノ協奏曲第1番\"蠍火\"",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A",
+    "version": 11,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "ピアノ協奏曲第1番\"蠍火\" (BlackY Remix)",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "ピアノ独奏無言歌 \"灰燼\"",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "焱影",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 5.5
+  },
+
+  { "name": "卑弥呼",
+    "difficulty": "A",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 10,
+    "h_value": 10
+  },
+
+  { "name": "表裏一体!?怪盗いいんちょの悩み♥",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  },
+
+  { "name": "表裏一体!?怪盗いいんちょの悩み♥",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9
+  },
+
+  { "name": "二人ノ廃城幽踊宴",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "不沈艦CANDY",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "《PL|RAYER》",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  },
+
+  { "name": "紅牡丹",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "烽火連天の刃",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "個人差A",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 6.5
+  },
+
+  { "name": "烽火連天の刃",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  },
+
+  { "name": "-65℃",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "#MAGiCVLGiRL_TRVP_B3VTZ",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  },  
+
+  { "name": "摩天楼",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 4.5
+  }, 
+
+  { "name": "魔法のかくれんぼ",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差B",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 4.5
+  }, 
+
+  { "name": "未完成ノ蒸氣驅動乙女",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  },
+
+  { "name": "禊",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "ミラージュ･レジデンス",
+    "difficulty": "L",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 4.5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "魅惑のYUMMYスイーツ",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  },
+
+  { "name": "冥",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力S+",
+    "version": 12,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 10
+  },  
+
+  { "name": "めいさいアイドル☆あいむちゃん♪",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "龍と少女とデコヒーレンス",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "リリーゼと炎龍レーヴァテイン",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  },  
+
+  { "name": "恋愛＝精度×認識力",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "個人差A+",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "煉獄のエルフェリア",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9
+  }, 
+
+  { "name": "惑星鉄道",
+    "difficulty": "A",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 10,
+    "h_value": 10 
+  },
+
+  { "name": "海神",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 3.5 
+  },
+
+  { "name": "海神",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 6.5 
+  },
+
+  { "name": "ワルツ第17番 ト短調\"大犬のワルツ\"",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差B",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 4.5
+  }
+]
